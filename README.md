@@ -226,7 +226,7 @@ http://localhost:5000
 
 ## 👨‍💻 Author
 
-Your Name
+Aman kumar ranjan
 B.Tech CSE Student
 
 ---
